@@ -4,34 +4,31 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-28 10:14+0000\n"
-"PO-Revision-Date: 2018-07-13 08:48+0000\n"
-"Last-Translator: Enric Tobella <etobella@creublanca.es>\n"
-"Language-Team: \n"
-"Language: es\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0.1\n"
 
 #. module: sequence_check_digit
 #: code:addons/sequence_check_digit/models/ir_sequence.py:0
 #, python-format
 msgid "%s is not an implemented function"
-msgstr "%s no es una función implementada"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields,field_description:sequence_check_digit.field_ir_sequence__check_digit_formula
 msgid "Check Digit Formula"
-msgstr "Fórmula del Dígito de control"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__damm
 msgid "Damm"
-msgstr "Damm"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields,field_description:sequence_check_digit.field_ir_sequence__display_name
@@ -40,9 +37,10 @@ msgstr ""
 
 #. module: sequence_check_digit
 #: code:addons/sequence_check_digit/models/ir_sequence.py:0
+#: code:addons/sequence_check_digit/models/ir_sequence.py:0
 #, python-format
 msgid "Format is not accepted"
-msgstr "El formato no está aceptado"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields,field_description:sequence_check_digit.field_ir_sequence__id
@@ -52,27 +50,27 @@ msgstr ""
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__iso7064_11_10
 msgid "ISO 7064 Mod 11, 10"
-msgstr "ISO 7064 Mod 11, 10"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__iso7064_11_2
 msgid "ISO 7064 Mod 11, 2"
-msgstr "ISO 7064 Mod 11, 2"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__iso7064_37_2
 msgid "ISO 7064 Mod 37, 2"
-msgstr "ISO 7064 Mod 37, 2"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__iso7064_37_36
 msgid "ISO 7064 Mod 37, 36"
-msgstr "ISO 7064 Mod 37, 36"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__iso7064_97_10
 msgid "ISO 7064 Mod 97, 10"
-msgstr "ISO 7064 Mod 97, 10"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields,field_description:sequence_check_digit.field_ir_sequence____last_update
@@ -82,23 +80,19 @@ msgstr ""
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__luhn
 msgid "Luhn"
-msgstr "Luhn"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__none
 msgid "None"
-msgstr "Ninguno"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model,name:sequence_check_digit.model_ir_sequence
-#, fuzzy
 msgid "Sequence"
-msgstr "ir.sequence"
+msgstr ""
 
 #. module: sequence_check_digit
 #: model:ir.model.fields.selection,name:sequence_check_digit.selection__ir_sequence__check_digit_formula__verhoeff
 msgid "Verhoeff"
-msgstr "Verhoeff"
-
-#~ msgid "Function not found"
-#~ msgstr "Función no encontrada"
+msgstr ""
